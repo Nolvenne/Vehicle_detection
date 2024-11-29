@@ -1,0 +1,6 @@
+path: "/Users/meme/Documents/ANN FINAL PROJECT"
+train: mydata/images
+val: mydata/images
+
+names:
+  0: car
